@@ -1,0 +1,29 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "demo api",
+  "main": "./src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "starton": "tsc && nodemon src/app.js"
+  },
+  "author": "Rohal",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "@types/mongoose": "^5.11.97",
+    "@types/multer": "^1.4.7",
+    "mongoose": "^5.13.7",
+    "tslint": "^6.1.3",
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.12.1",
+    "multer": "^1.4.3",
+    "path": "^0.12.7"
+  }
+}
