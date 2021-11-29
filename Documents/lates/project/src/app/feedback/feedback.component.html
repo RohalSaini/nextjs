@@ -1,0 +1,17 @@
+<span 
+*ngIf="!isValid" class="error">
+    {{error}}
+</span>    
+<div id="wrapper">
+    <div id="contact_form_div">
+     <p id="contact_label">FEEDBACK  FORM</p>
+     <form [formGroup]="signUpform"  (ngSubmit)="onSubmit()">
+      <p><input type="text" placeholder="Enter Name" formControlName="username"></p>
+      <p><input type="text" placeholder="Enter Email" formControlName="email"></p>
+      <p><textarea placeholder="Enter Suggestion" formControlName="suggestion"></textarea></p>
+     
+      <p><input type="submit" value="SUBMIT"></p>
+     </form>
+    </div>
+    
+    </div>

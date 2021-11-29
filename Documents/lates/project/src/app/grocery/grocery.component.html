@@ -1,0 +1,33 @@
+<div class="container-1">
+    <form [formGroup] ="signform" (ngSubmit)="onSubmit()">
+          <label for="quantity">Quantity:</label><br>
+          <input 
+                type="number" 
+                id="quantity" 
+                name="Quantity" 
+                placeholder="Enter Quantity..." 
+                min="0" 
+                max="100"
+                formControlName="quantity"><br>
+          <label for="item">Item:</label><br>
+          <input 
+                type="text" 
+                id="item" 
+                name="item" 
+                placeholder="Enter Item name..."
+                formControlName="name"><br>
+                <br>
+        <button class="btn btn-primary" type="submit">Add to list</button>
+        <br>
+        <p class="error" *ngIf="!valid">
+            {{errorMessage}}
+            </p>
+    </form>
+    <div class="wrapper" *ngIf="lists.length === 0">
+        <h3>Nothing to buy</h3>
+    </div>
+    <div *ngFor="let item of lists">
+        <input type="checkbox" id="vehicle1" name="vehicle1" value="{{ item.name}}" (change)="changed($event)">
+        <label for="vehicle1"> {{ item.quantity}} {{ item.name}}</label>
+    </div>
+</div>    

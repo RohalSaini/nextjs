@@ -1,0 +1,18 @@
+<h3 class="wrapper" *ngIf="buy.length != 0">Purchased History!!</h3>
+<div class="outer" *ngIf="buy.length != 0">
+    <div class="quantity">Quantity</div>
+    <div class="name">Name</div>
+</div>
+<div *ngFor="let item of buy" class="item-content">
+    <hr>
+    <label class="vehicle-1"> {{ item.quantity}}</label>
+    <label class="name-1"> {{ item.name}}</label>
+    <hr>
+</div>
+
+<div class="wrapper" *ngIf="buy.length === 0">
+    <h3>Empty !!</h3>
+</div>
+<div *ngIf="buy.length != 0">
+    <button class="btn" (click)="onReset()">Reset</button>
+</div>
