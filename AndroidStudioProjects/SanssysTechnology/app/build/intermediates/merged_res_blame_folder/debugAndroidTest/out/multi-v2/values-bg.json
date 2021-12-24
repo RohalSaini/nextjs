@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/rohal/AndroidStudioProjects/SanssysTechnology/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-bg/values-bg.xml",
+            "map": [
+                {
+                    "source": "/home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/e0be5a2c6b80fdf29f998df080a82cb4/transformed/jetified-ui-1.0.5/res/values-bg/values-bg.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,208,301,404,480,590,681,765,832,898,970,1039",
+                        "endColumns": "102,92,102,75,109,90,83,66,65,71,68,120",
+                        "endOffsets": "203,296,399,475,585,676,760,827,893,965,1034,1155"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,208,301,404,480,590,681,765,832,898,1071,1140",
+                        "endColumns": "102,92,102,75,109,90,83,66,65,71,68,120",
+                        "endOffsets": "203,296,399,475,585,676,760,827,893,965,1135,1256"
+                    }
+                },
+                {
+                    "source": "/home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/22fc58c1aba25a38624b19fcaec4a163/transformed/core-1.7.0/res/values-bg/values-bg.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "970",
+                        "endColumns": "100",
+                        "endOffsets": "1066"
+                    }
+                }
+            ]
+        }
+    ]
+}

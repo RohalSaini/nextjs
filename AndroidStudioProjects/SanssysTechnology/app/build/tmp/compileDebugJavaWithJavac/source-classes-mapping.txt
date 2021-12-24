@@ -1,0 +1,2 @@
+com/example/sanssystechnology/BuildConfig.java
+ com.example.sanssystechnology.BuildConfig

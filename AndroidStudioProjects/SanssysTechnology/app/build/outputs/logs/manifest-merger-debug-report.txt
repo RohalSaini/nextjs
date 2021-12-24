@@ -1,0 +1,623 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [androidx.compose.ui:ui-tooling:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/70a2e0187431754cf1c15845522f177a/transformed/jetified-ui-tooling-1.0.5/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.compose.material:material:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/dc03a254d975d1679552a018eed920e0/transformed/jetified-material-1.0.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-compose:2.4.0-beta02] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/5d9ddfb38b0277a9b82603905a821f80/transformed/jetified-navigation-compose-2.4.0-beta02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-compose:1.4.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/94683c90c448f5a480579612e0b6e3a1/transformed/jetified-activity-compose-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime-livedata:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/54b317f7b88da2b4a900505afcb0929f/transformed/jetified-runtime-livedata-1.0.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-data:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/19ae1b0a6f7b0434e7bffdaab3b450fd/transformed/jetified-ui-tooling-data-1.0.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-ripple:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/da70a11eba5d48409bcac41c9b81d498/transformed/jetified-material-ripple-1.0.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.foundation:foundation:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/c8fa4a9195caf7b6a60b29c7bd26dae5/transformed/jetified-foundation-1.0.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/cd8286026c257877181315fa30d215b6/transformed/jetified-animation-1.0.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation-core:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/5fac77eb782602308c67eea66a67f3ad/transformed/jetified-animation-core-1.0.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-icons-core:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/8ea8a4fd012264ba01d3c791f63adc19/transformed/jetified-material-icons-core-1.0.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.foundation:foundation-layout:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/7df8dd92f2191cf17a0cd8eea502dddd/transformed/jetified-foundation-layout-1.0.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.4.0-rc01] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/0053e6bf08588d6f0466518857880221/transformed/jetified-lifecycle-viewmodel-compose-2.4.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/26a22a37efae74e063eab5ca7db88a00/transformed/jetified-ui-1.0.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.0-beta02] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/32e0ed1c214cbf38a9dbb605d0e44457/transformed/navigation-runtime-ktx-2.4.0-beta02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.4.0-beta02] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/01d2fdbaac53cbe76422b5547b44c878/transformed/navigation-runtime-2.4.0-beta02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.4.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/07e68e2cb33c898be8c1e53c65cfb09f/transformed/jetified-activity-ktx-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.0-beta02] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/119a250909ea1ba56f676a3c904b33ff/transformed/navigation-common-ktx-2.4.0-beta02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.4.0-beta02] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/492be60002a4f42e971a055d0f635da7/transformed/navigation-common-2.4.0-beta02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/969640360f34842370b9bea3a82e89c8/transformed/jetified-lifecycle-runtime-ktx-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/ad2ca5f20decefbce8880fd7514c8029/transformed/jetified-ui-tooling-preview-1.0.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-text:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/2f102356b238950770fbb0c13a32ba76/transformed/jetified-ui-text-1.0.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime-saveable:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/bc1ffa72ba3e3ba100f5a5da62312161/transformed/jetified-runtime-saveable-1.0.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-graphics:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/d58c43ffce7f6d21a5935e9b16263e37/transformed/jetified-ui-graphics-1.0.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-unit:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/f51bb13da011eda2929365eb6cf67cba/transformed/jetified-ui-unit-1.0.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-geometry:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/47d441c382a17af0d2a748d2cc0ac38f/transformed/jetified-ui-geometry-1.0.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/10ad2a38519360c37aaade1e33bc2dda/transformed/jetified-runtime-1.0.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/854066fa19161a243f4e684d85024eac/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/5d5783b0e5722a003639aaf13fa02632/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.4.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/85d28c44b86a0d7daf82e0bd918708c8/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/5a7d319251e9686be5398d9c90147c4b/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/6cc14446ecba1a0f7d283efcc110c9c5/transformed/appcompat-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth:19.2.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/6b45abe01a8167e2a9a18a4828272485/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-analytics-ktx:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/cee1da49392490a517b3ae36c3779b61/transformed/jetified-firebase-analytics-ktx-20.0.0/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-analytics:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/de8561c401c0399d6ef1d2971e9dd657/transformed/jetified-firebase-analytics-20.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/893ba6dc734555805e60b1c9b09ff832/transformed/jetified-firebase-common-ktx-20.0.0/AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.android.gms:play-services-measurement-api:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/e2d056e3f01dcd679fda53e7c5548afe/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/9b5fa1ab1eb0f0e840025398ccdb34e7/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/ddf75874fb8fdb7126d3f279b4e541fa/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:15:1-40:12
+MERGED from [androidx.compose.ui:ui-util:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/fc643c7735fac2ae8924f79bb7278a8c/transformed/jetified-ui-util-1.0.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/44830bf047c2c7edc2bbb94a291fec4d/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/d2e68531d70f6fa46457808014efd06d/transformed/jetified-play-services-auth-api-phone-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/c8328fda00802b41cbb5f1337d24237f/transformed/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/3e05de34d1589a42ebd1e1b8b4938744/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/4f7d8df1e28c80047564d42ab1320a4e/transformed/jetified-firebase-installations-interop-17.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/7c5b3d3c2c60e4c0a944abf37116c381/transformed/jetified-play-services-tasks-17.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/157cebd22e22f056535f7ed7928a0ddf/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/b48c57dd1293b4ea885716960253cdf3/transformed/jetified-play-services-measurement-sdk-20.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/a5df1aabdcccefcbb73ab542de1b8a5b/transformed/jetified-play-services-measurement-impl-20.0.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/40a727c09ce1eb979b4a6e1cfcfcb0c4/transformed/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/2c1c8ca494e3d2d20512bdbbfa5398dc/transformed/jetified-play-services-measurement-sdk-api-20.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/3d6be8dc761592150e67f8f02d6a8469/transformed/jetified-play-services-measurement-base-20.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/154992118e98704ce06e45a2af63c457/transformed/jetified-play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/8c375bcf7ed09c3ca4f321cc933b8a80/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/6a8240edafc5611026bfcc1a45c99584/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.3.6] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/e06bb169d9b6101a754f81709b41284f/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.4.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/0b7d9c705fdfe0f6ae2e0c60fc5d0e99/transformed/jetified-activity-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/6cda46c0c88db46e7efebc7d4b88ac40/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/68aa5df5662eab2ad8f9da7bcb8aff20/transformed/jetified-appcompat-resources-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/f26bb8aa2a320f63b80b22549c51668b/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/3ace5ebf523616c73783facac71d50e6/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/1c4302db56eb14a54d45cfddd1ec81b4/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/9125df245d6e4417dd3ca0a609fff065/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/951d6dd0e5250fcf01211e9bffb8a991/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/16d4b47fc0cf30120de3e9b34fd06f4f/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/19a30188ff4c0a9aa4b02503af7b5f38/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/e733f6fe4096eaf48c5a2b099be08923/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/24fb553987cc801e1cceaaf547f03a07/transformed/jetified-autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/6670937cdd9704fe04d88ed7771c3f20/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/b9e81fd6063ad14316c87a9e92ef18ff/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/1e44b2118ce34f0d50b933290f536626/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/eebe67858fcffb3e91ce1cb1607fef3a/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/d03dab07463c7dd516900dfd7cfff56f/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/debc3501440185e7650098abdf593a2a/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/4068664b0d562ae77237cd4a4075f864/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/9d9730b2327f27bd4affe505b7d15f23/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/03aadf8067201fc658533b0d65fa45d6/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/53ba64e63468cfbb9a20e1447f742423/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/d9e358f3f874d608e5296688d226fe92/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.0.4] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/301823d19e0b5deaf6ae4cc0d7429eff/transformed/jetified-profileinstaller-1.0.4/AndroidManifest.xml:17:1-48:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/c71d235f0f1242e1a5ac14c3713b89b8/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/96cae9a8e38f0a60af951378a1ea758d/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/fce5b863c799a3b6bc40db1364292f2a/transformed/jetified-firebase-components-17.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/5687bca4c01262c64ecdf36cb76476b7/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/36690b4f63f7eb357dde56babf815b21/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/529712fb517341c4b5e9bf6f27c2e38d/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/9056947c0e2d9966bab27430b82f6237/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/cf2ee50f70ab7937cad292d2505d01fc/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/62a6bccf824bf50a350f0804bbe2d9df/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/45b6182279af2618e79bf6d01e57c296/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/9a11367b4c372edb8c4e8a80ab0d3338/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/37b450664d9e0b6d5a117f8e6212aa11/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/3b9f82768ffd10dfe205c85fc56d49e1/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/a4afedf8a39a596e383b921d3cb53d74/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml
+		ADDED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml
+		ADDED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:4:5-66
+MERGED from [com.google.android.gms:play-services-measurement-api:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/e2d056e3f01dcd679fda53e7c5548afe/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/e2d056e3f01dcd679fda53e7c5548afe/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/9b5fa1ab1eb0f0e840025398ccdb34e7/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/9b5fa1ab1eb0f0e840025398ccdb34e7/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/157cebd22e22f056535f7ed7928a0ddf/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/157cebd22e22f056535f7ed7928a0ddf/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/a5df1aabdcccefcbb73ab542de1b8a5b/transformed/jetified-play-services-measurement-impl-20.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/a5df1aabdcccefcbb73ab542de1b8a5b/transformed/jetified-play-services-measurement-impl-20.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/2c1c8ca494e3d2d20512bdbbfa5398dc/transformed/jetified-play-services-measurement-sdk-api-20.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/2c1c8ca494e3d2d20512bdbbfa5398dc/transformed/jetified-play-services-measurement-sdk-api-20.0.0/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from [androidx.compose.ui:ui-tooling:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/70a2e0187431754cf1c15845522f177a/transformed/jetified-ui-tooling-1.0.5/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.compose.ui:ui-tooling:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/70a2e0187431754cf1c15845522f177a/transformed/jetified-ui-tooling-1.0.5/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.material:material:1.4.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/85d28c44b86a0d7daf82e0bd918708c8/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/85d28c44b86a0d7daf82e0bd918708c8/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/5a7d319251e9686be5398d9c90147c4b/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/5a7d319251e9686be5398d9c90147c4b/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-auth:19.2.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/6b45abe01a8167e2a9a18a4828272485/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:19.2.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/6b45abe01a8167e2a9a18a4828272485/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/cee1da49392490a517b3ae36c3779b61/transformed/jetified-firebase-analytics-ktx-20.0.0/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/cee1da49392490a517b3ae36c3779b61/transformed/jetified-firebase-analytics-ktx-20.0.0/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-analytics:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/de8561c401c0399d6ef1d2971e9dd657/transformed/jetified-firebase-analytics-20.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/de8561c401c0399d6ef1d2971e9dd657/transformed/jetified-firebase-analytics-20.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/893ba6dc734555805e60b1c9b09ff832/transformed/jetified-firebase-common-ktx-20.0.0/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/893ba6dc734555805e60b1c9b09ff832/transformed/jetified-firebase-common-ktx-20.0.0/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.android.gms:play-services-measurement-api:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/e2d056e3f01dcd679fda53e7c5548afe/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/e2d056e3f01dcd679fda53e7c5548afe/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/9b5fa1ab1eb0f0e840025398ccdb34e7/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/9b5fa1ab1eb0f0e840025398ccdb34e7/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/ddf75874fb8fdb7126d3f279b4e541fa/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/ddf75874fb8fdb7126d3f279b4e541fa/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/3e05de34d1589a42ebd1e1b8b4938744/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/3e05de34d1589a42ebd1e1b8b4938744/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/7c5b3d3c2c60e4c0a944abf37116c381/transformed/jetified-play-services-tasks-17.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/7c5b3d3c2c60e4c0a944abf37116c381/transformed/jetified-play-services-tasks-17.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/157cebd22e22f056535f7ed7928a0ddf/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/157cebd22e22f056535f7ed7928a0ddf/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/b48c57dd1293b4ea885716960253cdf3/transformed/jetified-play-services-measurement-sdk-20.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/b48c57dd1293b4ea885716960253cdf3/transformed/jetified-play-services-measurement-sdk-20.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/a5df1aabdcccefcbb73ab542de1b8a5b/transformed/jetified-play-services-measurement-impl-20.0.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/a5df1aabdcccefcbb73ab542de1b8a5b/transformed/jetified-play-services-measurement-impl-20.0.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/40a727c09ce1eb979b4a6e1cfcfcb0c4/transformed/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/40a727c09ce1eb979b4a6e1cfcfcb0c4/transformed/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/3d6be8dc761592150e67f8f02d6a8469/transformed/jetified-play-services-measurement-base-20.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/3d6be8dc761592150e67f8f02d6a8469/transformed/jetified-play-services-measurement-base-20.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/154992118e98704ce06e45a2af63c457/transformed/jetified-play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/154992118e98704ce06e45a2af63c457/transformed/jetified-play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/8c375bcf7ed09c3ca4f321cc933b8a80/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/8c375bcf7ed09c3ca4f321cc933b8a80/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/6a8240edafc5611026bfcc1a45c99584/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/6a8240edafc5611026bfcc1a45c99584/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/1c4302db56eb14a54d45cfddd1ec81b4/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/1c4302db56eb14a54d45cfddd1ec81b4/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/debc3501440185e7650098abdf593a2a/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/debc3501440185e7650098abdf593a2a/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.0.4] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/301823d19e0b5deaf6ae4cc0d7429eff/transformed/jetified-profileinstaller-1.0.4/AndroidManifest.xml:25:5-46:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.0.4] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/301823d19e0b5deaf6ae4cc0d7429eff/transformed/jetified-profileinstaller-1.0.4/AndroidManifest.xml:25:5-46:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/c71d235f0f1242e1a5ac14c3713b89b8/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/c71d235f0f1242e1a5ac14c3713b89b8/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/5687bca4c01262c64ecdf36cb76476b7/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/5687bca4c01262c64ecdf36cb76476b7/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/36690b4f63f7eb357dde56babf815b21/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/36690b4f63f7eb357dde56babf815b21/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/debc3501440185e7650098abdf593a2a/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:13:9-55
+	android:usesCleartextTraffic
+		ADDED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:7:9-44
+activity#com.example.sanssystechnology.presentation.MainActivity
+ADDED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:14:9-24:20
+	android:label
+		ADDED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:17:13-45
+	android:exported
+		ADDED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:16:13-36
+	android:theme
+		ADDED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:18:13-71
+	android:name
+		ADDED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:15:13-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml
+INJECTED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml
+MERGED from [androidx.compose.ui:ui-tooling:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/70a2e0187431754cf1c15845522f177a/transformed/jetified-ui-tooling-1.0.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/70a2e0187431754cf1c15845522f177a/transformed/jetified-ui-tooling-1.0.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/dc03a254d975d1679552a018eed920e0/transformed/jetified-material-1.0.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/dc03a254d975d1679552a018eed920e0/transformed/jetified-material-1.0.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-compose:2.4.0-beta02] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/5d9ddfb38b0277a9b82603905a821f80/transformed/jetified-navigation-compose-2.4.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-compose:2.4.0-beta02] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/5d9ddfb38b0277a9b82603905a821f80/transformed/jetified-navigation-compose-2.4.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.4.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/94683c90c448f5a480579612e0b6e3a1/transformed/jetified-activity-compose-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.4.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/94683c90c448f5a480579612e0b6e3a1/transformed/jetified-activity-compose-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-livedata:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/54b317f7b88da2b4a900505afcb0929f/transformed/jetified-runtime-livedata-1.0.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-livedata:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/54b317f7b88da2b4a900505afcb0929f/transformed/jetified-runtime-livedata-1.0.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-data:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/19ae1b0a6f7b0434e7bffdaab3b450fd/transformed/jetified-ui-tooling-data-1.0.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-data:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/19ae1b0a6f7b0434e7bffdaab3b450fd/transformed/jetified-ui-tooling-data-1.0.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-ripple:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/da70a11eba5d48409bcac41c9b81d498/transformed/jetified-material-ripple-1.0.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-ripple:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/da70a11eba5d48409bcac41c9b81d498/transformed/jetified-material-ripple-1.0.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/c8fa4a9195caf7b6a60b29c7bd26dae5/transformed/jetified-foundation-1.0.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/c8fa4a9195caf7b6a60b29c7bd26dae5/transformed/jetified-foundation-1.0.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/cd8286026c257877181315fa30d215b6/transformed/jetified-animation-1.0.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/cd8286026c257877181315fa30d215b6/transformed/jetified-animation-1.0.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/5fac77eb782602308c67eea66a67f3ad/transformed/jetified-animation-core-1.0.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/5fac77eb782602308c67eea66a67f3ad/transformed/jetified-animation-core-1.0.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-core:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/8ea8a4fd012264ba01d3c791f63adc19/transformed/jetified-material-icons-core-1.0.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-core:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/8ea8a4fd012264ba01d3c791f63adc19/transformed/jetified-material-icons-core-1.0.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation-layout:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/7df8dd92f2191cf17a0cd8eea502dddd/transformed/jetified-foundation-layout-1.0.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation-layout:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/7df8dd92f2191cf17a0cd8eea502dddd/transformed/jetified-foundation-layout-1.0.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.4.0-rc01] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/0053e6bf08588d6f0466518857880221/transformed/jetified-lifecycle-viewmodel-compose-2.4.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.4.0-rc01] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/0053e6bf08588d6f0466518857880221/transformed/jetified-lifecycle-viewmodel-compose-2.4.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/26a22a37efae74e063eab5ca7db88a00/transformed/jetified-ui-1.0.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/26a22a37efae74e063eab5ca7db88a00/transformed/jetified-ui-1.0.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.0-beta02] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/32e0ed1c214cbf38a9dbb605d0e44457/transformed/navigation-runtime-ktx-2.4.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.0-beta02] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/32e0ed1c214cbf38a9dbb605d0e44457/transformed/navigation-runtime-ktx-2.4.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.0-beta02] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/01d2fdbaac53cbe76422b5547b44c878/transformed/navigation-runtime-2.4.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.0-beta02] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/01d2fdbaac53cbe76422b5547b44c878/transformed/navigation-runtime-2.4.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.4.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/07e68e2cb33c898be8c1e53c65cfb09f/transformed/jetified-activity-ktx-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.4.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/07e68e2cb33c898be8c1e53c65cfb09f/transformed/jetified-activity-ktx-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.0-beta02] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/119a250909ea1ba56f676a3c904b33ff/transformed/navigation-common-ktx-2.4.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.0-beta02] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/119a250909ea1ba56f676a3c904b33ff/transformed/navigation-common-ktx-2.4.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.0-beta02] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/492be60002a4f42e971a055d0f635da7/transformed/navigation-common-2.4.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.0-beta02] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/492be60002a4f42e971a055d0f635da7/transformed/navigation-common-2.4.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/969640360f34842370b9bea3a82e89c8/transformed/jetified-lifecycle-runtime-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/969640360f34842370b9bea3a82e89c8/transformed/jetified-lifecycle-runtime-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/ad2ca5f20decefbce8880fd7514c8029/transformed/jetified-ui-tooling-preview-1.0.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/ad2ca5f20decefbce8880fd7514c8029/transformed/jetified-ui-tooling-preview-1.0.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-text:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/2f102356b238950770fbb0c13a32ba76/transformed/jetified-ui-text-1.0.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-text:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/2f102356b238950770fbb0c13a32ba76/transformed/jetified-ui-text-1.0.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-saveable:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/bc1ffa72ba3e3ba100f5a5da62312161/transformed/jetified-runtime-saveable-1.0.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-saveable:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/bc1ffa72ba3e3ba100f5a5da62312161/transformed/jetified-runtime-saveable-1.0.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-graphics:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/d58c43ffce7f6d21a5935e9b16263e37/transformed/jetified-ui-graphics-1.0.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-graphics:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/d58c43ffce7f6d21a5935e9b16263e37/transformed/jetified-ui-graphics-1.0.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-unit:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/f51bb13da011eda2929365eb6cf67cba/transformed/jetified-ui-unit-1.0.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-unit:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/f51bb13da011eda2929365eb6cf67cba/transformed/jetified-ui-unit-1.0.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-geometry:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/47d441c382a17af0d2a748d2cc0ac38f/transformed/jetified-ui-geometry-1.0.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-geometry:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/47d441c382a17af0d2a748d2cc0ac38f/transformed/jetified-ui-geometry-1.0.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/10ad2a38519360c37aaade1e33bc2dda/transformed/jetified-runtime-1.0.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/10ad2a38519360c37aaade1e33bc2dda/transformed/jetified-runtime-1.0.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/854066fa19161a243f4e684d85024eac/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/854066fa19161a243f4e684d85024eac/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/5d5783b0e5722a003639aaf13fa02632/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/5d5783b0e5722a003639aaf13fa02632/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.4.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/85d28c44b86a0d7daf82e0bd918708c8/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/85d28c44b86a0d7daf82e0bd918708c8/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/5a7d319251e9686be5398d9c90147c4b/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/5a7d319251e9686be5398d9c90147c4b/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/6cc14446ecba1a0f7d283efcc110c9c5/transformed/appcompat-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/6cc14446ecba1a0f7d283efcc110c9c5/transformed/appcompat-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth:19.2.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/6b45abe01a8167e2a9a18a4828272485/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:19.2.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/6b45abe01a8167e2a9a18a4828272485/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-ktx:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/cee1da49392490a517b3ae36c3779b61/transformed/jetified-firebase-analytics-ktx-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics-ktx:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/cee1da49392490a517b3ae36c3779b61/transformed/jetified-firebase-analytics-ktx-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/de8561c401c0399d6ef1d2971e9dd657/transformed/jetified-firebase-analytics-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/de8561c401c0399d6ef1d2971e9dd657/transformed/jetified-firebase-analytics-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/893ba6dc734555805e60b1c9b09ff832/transformed/jetified-firebase-common-ktx-20.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/893ba6dc734555805e60b1c9b09ff832/transformed/jetified-firebase-common-ktx-20.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-measurement-api:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/e2d056e3f01dcd679fda53e7c5548afe/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/e2d056e3f01dcd679fda53e7c5548afe/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/9b5fa1ab1eb0f0e840025398ccdb34e7/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/9b5fa1ab1eb0f0e840025398ccdb34e7/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/ddf75874fb8fdb7126d3f279b4e541fa/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/ddf75874fb8fdb7126d3f279b4e541fa/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-util:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/fc643c7735fac2ae8924f79bb7278a8c/transformed/jetified-ui-util-1.0.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-util:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/fc643c7735fac2ae8924f79bb7278a8c/transformed/jetified-ui-util-1.0.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/44830bf047c2c7edc2bbb94a291fec4d/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/44830bf047c2c7edc2bbb94a291fec4d/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/d2e68531d70f6fa46457808014efd06d/transformed/jetified-play-services-auth-api-phone-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/d2e68531d70f6fa46457808014efd06d/transformed/jetified-play-services-auth-api-phone-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/c8328fda00802b41cbb5f1337d24237f/transformed/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/c8328fda00802b41cbb5f1337d24237f/transformed/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/3e05de34d1589a42ebd1e1b8b4938744/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/3e05de34d1589a42ebd1e1b8b4938744/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/4f7d8df1e28c80047564d42ab1320a4e/transformed/jetified-firebase-installations-interop-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/4f7d8df1e28c80047564d42ab1320a4e/transformed/jetified-firebase-installations-interop-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/7c5b3d3c2c60e4c0a944abf37116c381/transformed/jetified-play-services-tasks-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/7c5b3d3c2c60e4c0a944abf37116c381/transformed/jetified-play-services-tasks-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/157cebd22e22f056535f7ed7928a0ddf/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/157cebd22e22f056535f7ed7928a0ddf/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/b48c57dd1293b4ea885716960253cdf3/transformed/jetified-play-services-measurement-sdk-20.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/b48c57dd1293b4ea885716960253cdf3/transformed/jetified-play-services-measurement-sdk-20.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/a5df1aabdcccefcbb73ab542de1b8a5b/transformed/jetified-play-services-measurement-impl-20.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/a5df1aabdcccefcbb73ab542de1b8a5b/transformed/jetified-play-services-measurement-impl-20.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/40a727c09ce1eb979b4a6e1cfcfcb0c4/transformed/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/40a727c09ce1eb979b4a6e1cfcfcb0c4/transformed/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/2c1c8ca494e3d2d20512bdbbfa5398dc/transformed/jetified-play-services-measurement-sdk-api-20.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/2c1c8ca494e3d2d20512bdbbfa5398dc/transformed/jetified-play-services-measurement-sdk-api-20.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/3d6be8dc761592150e67f8f02d6a8469/transformed/jetified-play-services-measurement-base-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/3d6be8dc761592150e67f8f02d6a8469/transformed/jetified-play-services-measurement-base-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/154992118e98704ce06e45a2af63c457/transformed/jetified-play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/154992118e98704ce06e45a2af63c457/transformed/jetified-play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/8c375bcf7ed09c3ca4f321cc933b8a80/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/8c375bcf7ed09c3ca4f321cc933b8a80/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/6a8240edafc5611026bfcc1a45c99584/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/6a8240edafc5611026bfcc1a45c99584/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/e06bb169d9b6101a754f81709b41284f/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/e06bb169d9b6101a754f81709b41284f/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.4.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/0b7d9c705fdfe0f6ae2e0c60fc5d0e99/transformed/jetified-activity-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.4.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/0b7d9c705fdfe0f6ae2e0c60fc5d0e99/transformed/jetified-activity-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/6cda46c0c88db46e7efebc7d4b88ac40/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/6cda46c0c88db46e7efebc7d4b88ac40/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/68aa5df5662eab2ad8f9da7bcb8aff20/transformed/jetified-appcompat-resources-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/68aa5df5662eab2ad8f9da7bcb8aff20/transformed/jetified-appcompat-resources-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/f26bb8aa2a320f63b80b22549c51668b/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/f26bb8aa2a320f63b80b22549c51668b/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/3ace5ebf523616c73783facac71d50e6/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/3ace5ebf523616c73783facac71d50e6/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/1c4302db56eb14a54d45cfddd1ec81b4/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/1c4302db56eb14a54d45cfddd1ec81b4/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/9125df245d6e4417dd3ca0a609fff065/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/9125df245d6e4417dd3ca0a609fff065/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/951d6dd0e5250fcf01211e9bffb8a991/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/951d6dd0e5250fcf01211e9bffb8a991/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/16d4b47fc0cf30120de3e9b34fd06f4f/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/16d4b47fc0cf30120de3e9b34fd06f4f/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/19a30188ff4c0a9aa4b02503af7b5f38/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/19a30188ff4c0a9aa4b02503af7b5f38/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/e733f6fe4096eaf48c5a2b099be08923/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/e733f6fe4096eaf48c5a2b099be08923/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/24fb553987cc801e1cceaaf547f03a07/transformed/jetified-autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/24fb553987cc801e1cceaaf547f03a07/transformed/jetified-autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/6670937cdd9704fe04d88ed7771c3f20/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/6670937cdd9704fe04d88ed7771c3f20/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/b9e81fd6063ad14316c87a9e92ef18ff/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/b9e81fd6063ad14316c87a9e92ef18ff/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/1e44b2118ce34f0d50b933290f536626/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/1e44b2118ce34f0d50b933290f536626/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/eebe67858fcffb3e91ce1cb1607fef3a/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/eebe67858fcffb3e91ce1cb1607fef3a/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/d03dab07463c7dd516900dfd7cfff56f/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/d03dab07463c7dd516900dfd7cfff56f/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/debc3501440185e7650098abdf593a2a/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/debc3501440185e7650098abdf593a2a/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/4068664b0d562ae77237cd4a4075f864/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/4068664b0d562ae77237cd4a4075f864/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/9d9730b2327f27bd4affe505b7d15f23/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/9d9730b2327f27bd4affe505b7d15f23/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/03aadf8067201fc658533b0d65fa45d6/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/03aadf8067201fc658533b0d65fa45d6/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/53ba64e63468cfbb9a20e1447f742423/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/53ba64e63468cfbb9a20e1447f742423/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/d9e358f3f874d608e5296688d226fe92/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/d9e358f3f874d608e5296688d226fe92/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.0.4] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/301823d19e0b5deaf6ae4cc0d7429eff/transformed/jetified-profileinstaller-1.0.4/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.0.4] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/301823d19e0b5deaf6ae4cc0d7429eff/transformed/jetified-profileinstaller-1.0.4/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/c71d235f0f1242e1a5ac14c3713b89b8/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/c71d235f0f1242e1a5ac14c3713b89b8/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/96cae9a8e38f0a60af951378a1ea758d/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/96cae9a8e38f0a60af951378a1ea758d/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/fce5b863c799a3b6bc40db1364292f2a/transformed/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/fce5b863c799a3b6bc40db1364292f2a/transformed/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/5687bca4c01262c64ecdf36cb76476b7/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/5687bca4c01262c64ecdf36cb76476b7/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/36690b4f63f7eb357dde56babf815b21/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/36690b4f63f7eb357dde56babf815b21/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/529712fb517341c4b5e9bf6f27c2e38d/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/529712fb517341c4b5e9bf6f27c2e38d/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/9056947c0e2d9966bab27430b82f6237/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/9056947c0e2d9966bab27430b82f6237/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/cf2ee50f70ab7937cad292d2505d01fc/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/cf2ee50f70ab7937cad292d2505d01fc/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/62a6bccf824bf50a350f0804bbe2d9df/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/62a6bccf824bf50a350f0804bbe2d9df/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/45b6182279af2618e79bf6d01e57c296/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/45b6182279af2618e79bf6d01e57c296/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/9a11367b4c372edb8c4e8a80ab0d3338/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/9a11367b4c372edb8c4e8a80ab0d3338/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/37b450664d9e0b6d5a117f8e6212aa11/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/37b450664d9e0b6d5a117f8e6212aa11/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/3b9f82768ffd10dfe205c85fc56d49e1/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/3b9f82768ffd10dfe205c85fc56d49e1/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/a4afedf8a39a596e383b921d3cb53d74/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/a4afedf8a39a596e383b921d3cb53d74/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml
+INJECTED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml
+		ADDED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml
+		ADDED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/70a2e0187431754cf1c15845522f177a/transformed/jetified-ui-tooling-1.0.5/AndroidManifest.xml:25:9-27:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/70a2e0187431754cf1c15845522f177a/transformed/jetified-ui-tooling-1.0.5/AndroidManifest.xml:27:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/70a2e0187431754cf1c15845522f177a/transformed/jetified-ui-tooling-1.0.5/AndroidManifest.xml:26:13-71
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:19.2.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/6b45abe01a8167e2a9a18a4828272485/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/6b45abe01a8167e2a9a18a4828272485/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/6b45abe01a8167e2a9a18a4828272485/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/6b45abe01a8167e2a9a18a4828272485/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/6b45abe01a8167e2a9a18a4828272485/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:19.2.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/6b45abe01a8167e2a9a18a4828272485/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/6b45abe01a8167e2a9a18a4828272485/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/6b45abe01a8167e2a9a18a4828272485/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/6b45abe01a8167e2a9a18a4828272485/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/6b45abe01a8167e2a9a18a4828272485/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:34:13-89
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-analytics-ktx:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/cee1da49392490a517b3ae36c3779b61/transformed/jetified-firebase-analytics-ktx-20.0.0/AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/893ba6dc734555805e60b1c9b09ff832/transformed/jetified-firebase-common-ktx-20.0.0/AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/893ba6dc734555805e60b1c9b09ff832/transformed/jetified-firebase-common-ktx-20.0.0/AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.android.gms:play-services-measurement-api:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/e2d056e3f01dcd679fda53e7c5548afe/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/e2d056e3f01dcd679fda53e7c5548afe/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/9b5fa1ab1eb0f0e840025398ccdb34e7/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/9b5fa1ab1eb0f0e840025398ccdb34e7/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/ddf75874fb8fdb7126d3f279b4e541fa/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/ddf75874fb8fdb7126d3f279b4e541fa/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics-ktx:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/cee1da49392490a517b3ae36c3779b61/transformed/jetified-firebase-analytics-ktx-20.0.0/AndroidManifest.xml:10:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/ddf75874fb8fdb7126d3f279b4e541fa/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/ddf75874fb8fdb7126d3f279b4e541fa/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics-ktx:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/cee1da49392490a517b3ae36c3779b61/transformed/jetified-firebase-analytics-ktx-20.0.0/AndroidManifest.xml:9:13-84
+meta-data#com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsKtxRegistrar
+ADDED from [com.google.firebase:firebase-analytics-ktx:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/cee1da49392490a517b3ae36c3779b61/transformed/jetified-firebase-analytics-ktx-20.0.0/AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-analytics-ktx:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/cee1da49392490a517b3ae36c3779b61/transformed/jetified-firebase-analytics-ktx-20.0.0/AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics-ktx:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/cee1da49392490a517b3ae36c3779b61/transformed/jetified-firebase-analytics-ktx-20.0.0/AndroidManifest.xml:12:17-126
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/893ba6dc734555805e60b1c9b09ff832/transformed/jetified-firebase-common-ktx-20.0.0/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/893ba6dc734555805e60b1c9b09ff832/transformed/jetified-firebase-common-ktx-20.0.0/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/893ba6dc734555805e60b1c9b09ff832/transformed/jetified-firebase-common-ktx-20.0.0/AndroidManifest.xml:16:17-113
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-measurement-api:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/e2d056e3f01dcd679fda53e7c5548afe/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/9b5fa1ab1eb0f0e840025398ccdb34e7/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/9b5fa1ab1eb0f0e840025398ccdb34e7/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/157cebd22e22f056535f7ed7928a0ddf/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/157cebd22e22f056535f7ed7928a0ddf/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/a5df1aabdcccefcbb73ab542de1b8a5b/transformed/jetified-play-services-measurement-impl-20.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/a5df1aabdcccefcbb73ab542de1b8a5b/transformed/jetified-play-services-measurement-impl-20.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/2c1c8ca494e3d2d20512bdbbfa5398dc/transformed/jetified-play-services-measurement-sdk-api-20.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/2c1c8ca494e3d2d20512bdbbfa5398dc/transformed/jetified-play-services-measurement-sdk-api-20.0.0/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/e2d056e3f01dcd679fda53e7c5548afe/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:23:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/e2d056e3f01dcd679fda53e7c5548afe/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/157cebd22e22f056535f7ed7928a0ddf/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/157cebd22e22f056535f7ed7928a0ddf/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/a5df1aabdcccefcbb73ab542de1b8a5b/transformed/jetified-play-services-measurement-impl-20.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/a5df1aabdcccefcbb73ab542de1b8a5b/transformed/jetified-play-services-measurement-impl-20.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/2c1c8ca494e3d2d20512bdbbfa5398dc/transformed/jetified-play-services-measurement-sdk-api-20.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/2c1c8ca494e3d2d20512bdbbfa5398dc/transformed/jetified-play-services-measurement-sdk-api-20.0.0/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/e2d056e3f01dcd679fda53e7c5548afe/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/e2d056e3f01dcd679fda53e7c5548afe/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/e2d056e3f01dcd679fda53e7c5548afe/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/e2d056e3f01dcd679fda53e7c5548afe/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/9b5fa1ab1eb0f0e840025398ccdb34e7/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/9b5fa1ab1eb0f0e840025398ccdb34e7/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/9b5fa1ab1eb0f0e840025398ccdb34e7/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/ddf75874fb8fdb7126d3f279b4e541fa/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/ddf75874fb8fdb7126d3f279b4e541fa/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/ddf75874fb8fdb7126d3f279b4e541fa/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/ddf75874fb8fdb7126d3f279b4e541fa/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/ddf75874fb8fdb7126d3f279b4e541fa/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/ddf75874fb8fdb7126d3f279b4e541fa/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:27:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.5.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/3e05de34d1589a42ebd1e1b8b4938744/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/3e05de34d1589a42ebd1e1b8b4938744/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/3e05de34d1589a42ebd1e1b8b4938744/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/3e05de34d1589a42ebd1e1b8b4938744/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:24:13-79
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/157cebd22e22f056535f7ed7928a0ddf/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/a5df1aabdcccefcbb73ab542de1b8a5b/transformed/jetified-play-services-measurement-impl-20.0.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/a5df1aabdcccefcbb73ab542de1b8a5b/transformed/jetified-play-services-measurement-impl-20.0.0/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/157cebd22e22f056535f7ed7928a0ddf/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/157cebd22e22f056535f7ed7928a0ddf/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/157cebd22e22f056535f7ed7928a0ddf/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/157cebd22e22f056535f7ed7928a0ddf/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/157cebd22e22f056535f7ed7928a0ddf/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/157cebd22e22f056535f7ed7928a0ddf/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/157cebd22e22f056535f7ed7928a0ddf/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/157cebd22e22f056535f7ed7928a0ddf/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/157cebd22e22f056535f7ed7928a0ddf/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/157cebd22e22f056535f7ed7928a0ddf/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/157cebd22e22f056535f7ed7928a0ddf/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/157cebd22e22f056535f7ed7928a0ddf/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/157cebd22e22f056535f7ed7928a0ddf/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/157cebd22e22f056535f7ed7928a0ddf/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:40:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.5.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/6a8240edafc5611026bfcc1a45c99584/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/6a8240edafc5611026bfcc1a45c99584/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/6a8240edafc5611026bfcc1a45c99584/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:24:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/1c4302db56eb14a54d45cfddd1ec81b4/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.0.4] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/301823d19e0b5deaf6ae4cc0d7429eff/transformed/jetified-profileinstaller-1.0.4/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.0.4] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/301823d19e0b5deaf6ae4cc0d7429eff/transformed/jetified-profileinstaller-1.0.4/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/c71d235f0f1242e1a5ac14c3713b89b8/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/c71d235f0f1242e1a5ac14c3713b89b8/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/36690b4f63f7eb357dde56babf815b21/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/36690b4f63f7eb357dde56babf815b21/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/1c4302db56eb14a54d45cfddd1ec81b4/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/1c4302db56eb14a54d45cfddd1ec81b4/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/1c4302db56eb14a54d45cfddd1ec81b4/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/1c4302db56eb14a54d45cfddd1ec81b4/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/1c4302db56eb14a54d45cfddd1ec81b4/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/1c4302db56eb14a54d45cfddd1ec81b4/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/1c4302db56eb14a54d45cfddd1ec81b4/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.0.4] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/301823d19e0b5deaf6ae4cc0d7429eff/transformed/jetified-profileinstaller-1.0.4/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.4] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/301823d19e0b5deaf6ae4cc0d7429eff/transformed/jetified-profileinstaller-1.0.4/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.4] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/301823d19e0b5deaf6ae4cc0d7429eff/transformed/jetified-profileinstaller-1.0.4/AndroidManifest.xml:32:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.0.4] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/301823d19e0b5deaf6ae4cc0d7429eff/transformed/jetified-profileinstaller-1.0.4/AndroidManifest.xml:36:9-45:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.4] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/301823d19e0b5deaf6ae4cc0d7429eff/transformed/jetified-profileinstaller-1.0.4/AndroidManifest.xml:39:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.4] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/301823d19e0b5deaf6ae4cc0d7429eff/transformed/jetified-profileinstaller-1.0.4/AndroidManifest.xml:40:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.4] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/301823d19e0b5deaf6ae4cc0d7429eff/transformed/jetified-profileinstaller-1.0.4/AndroidManifest.xml:41:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.4] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/301823d19e0b5deaf6ae4cc0d7429eff/transformed/jetified-profileinstaller-1.0.4/AndroidManifest.xml:38:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.4] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/301823d19e0b5deaf6ae4cc0d7429eff/transformed/jetified-profileinstaller-1.0.4/AndroidManifest.xml:37:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.0.4] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/301823d19e0b5deaf6ae4cc0d7429eff/transformed/jetified-profileinstaller-1.0.4/AndroidManifest.xml:42:13-44:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.0.4] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/301823d19e0b5deaf6ae4cc0d7429eff/transformed/jetified-profileinstaller-1.0.4/AndroidManifest.xml:43:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.4] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/301823d19e0b5deaf6ae4cc0d7429eff/transformed/jetified-profileinstaller-1.0.4/AndroidManifest.xml:43:25-88
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/c71d235f0f1242e1a5ac14c3713b89b8/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/c71d235f0f1242e1a5ac14c3713b89b8/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/c71d235f0f1242e1a5ac14c3713b89b8/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78

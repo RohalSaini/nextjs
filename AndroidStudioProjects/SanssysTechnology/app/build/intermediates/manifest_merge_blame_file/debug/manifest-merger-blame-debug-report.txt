@@ -1,0 +1,239 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.sanssystechnology"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="27"
+8-->/home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->/home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:4:5-66
+11-->/home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->[com.google.android.gms:play-services-measurement-api:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/e2d056e3f01dcd679fda53e7c5548afe/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:23:5-79
+12-->[com.google.android.gms:play-services-measurement-api:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/e2d056e3f01dcd679fda53e7c5548afe/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:23:22-76
+13    <uses-permission android:name="android.permission.WAKE_LOCK" />
+13-->[com.google.android.gms:play-services-measurement-api:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/e2d056e3f01dcd679fda53e7c5548afe/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:24:5-68
+13-->[com.google.android.gms:play-services-measurement-api:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/e2d056e3f01dcd679fda53e7c5548afe/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:24:22-65
+14    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+14-->[com.google.android.gms:play-services-measurement:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/157cebd22e22f056535f7ed7928a0ddf/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:26:5-110
+14-->[com.google.android.gms:play-services-measurement:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/157cebd22e22f056535f7ed7928a0ddf/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:26:22-107
+15
+16    <application
+16-->/home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:6:5-25:19
+17        android:allowBackup="true"
+17-->/home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:8:9-35
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.7.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/debc3501440185e7650098abdf593a2a/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+19        android:debuggable="true"
+20        android:extractNativeLibs="false"
+21        android:icon="@mipmap/ic_launcher"
+21-->/home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:9:9-43
+22        android:label="@string/app_name"
+22-->/home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:10:9-41
+23        android:roundIcon="@mipmap/ic_launcher_round"
+23-->/home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:11:9-54
+24        android:supportsRtl="true"
+24-->/home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:12:9-35
+25        android:testOnly="true"
+26        android:theme="@style/Theme.SanssysTechnology"
+26-->/home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:13:9-55
+27        android:usesCleartextTraffic="true" >
+27-->/home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:7:9-44
+28        <activity
+28-->/home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:14:9-24:20
+29            android:name="com.example.sanssystechnology.presentation.MainActivity"
+29-->/home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:15:13-54
+30            android:exported="true"
+30-->/home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:16:13-36
+31            android:label="@string/app_name"
+31-->/home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:17:13-45
+32            android:theme="@style/Theme.SanssysTechnology.NoActionBar" >
+32-->/home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:18:13-71
+33            <intent-filter>
+33-->/home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:19:13-23:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->/home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:20:17-69
+34-->/home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:20:25-66
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->/home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:22:17-77
+36-->/home/rohal/AndroidStudioProjects/SanssysTechnology/app/src/main/AndroidManifest.xml:22:27-74
+37            </intent-filter>
+38        </activity>
+39        <activity
+39-->[androidx.compose.ui:ui-tooling:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/70a2e0187431754cf1c15845522f177a/transformed/jetified-ui-tooling-1.0.5/AndroidManifest.xml:25:9-27:39
+40            android:name="androidx.compose.ui.tooling.PreviewActivity"
+40-->[androidx.compose.ui:ui-tooling:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/70a2e0187431754cf1c15845522f177a/transformed/jetified-ui-tooling-1.0.5/AndroidManifest.xml:26:13-71
+41            android:exported="true" />
+41-->[androidx.compose.ui:ui-tooling:1.0.5] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/70a2e0187431754cf1c15845522f177a/transformed/jetified-ui-tooling-1.0.5/AndroidManifest.xml:27:13-36
+42        <activity
+42-->[com.google.android.gms:play-services-auth:19.2.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/6b45abe01a8167e2a9a18a4828272485/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:23:9-27:75
+43            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+43-->[com.google.android.gms:play-services-auth:19.2.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/6b45abe01a8167e2a9a18a4828272485/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:24:13-93
+44            android:excludeFromRecents="true"
+44-->[com.google.android.gms:play-services-auth:19.2.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/6b45abe01a8167e2a9a18a4828272485/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:25:13-46
+45            android:exported="false"
+45-->[com.google.android.gms:play-services-auth:19.2.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/6b45abe01a8167e2a9a18a4828272485/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:26:13-37
+46            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+46-->[com.google.android.gms:play-services-auth:19.2.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/6b45abe01a8167e2a9a18a4828272485/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:27:13-72
+47        <!--
+48            Service handling Google Sign-In user revocation. For apps that do not integrate with
+49            Google Sign-In, this service will never be started.
+50        -->
+51        <service
+51-->[com.google.android.gms:play-services-auth:19.2.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/6b45abe01a8167e2a9a18a4828272485/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:33:9-37:51
+52            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+52-->[com.google.android.gms:play-services-auth:19.2.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/6b45abe01a8167e2a9a18a4828272485/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:34:13-89
+53            android:exported="true"
+53-->[com.google.android.gms:play-services-auth:19.2.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/6b45abe01a8167e2a9a18a4828272485/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:35:13-36
+54            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+54-->[com.google.android.gms:play-services-auth:19.2.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/6b45abe01a8167e2a9a18a4828272485/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:36:13-107
+55            android:visibleToInstantApps="true" />
+55-->[com.google.android.gms:play-services-auth:19.2.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/6b45abe01a8167e2a9a18a4828272485/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:37:13-48
+56        <service
+56-->[com.google.firebase:firebase-analytics-ktx:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/cee1da49392490a517b3ae36c3779b61/transformed/jetified-firebase-analytics-ktx-20.0.0/AndroidManifest.xml:8:9-14:19
+57            android:name="com.google.firebase.components.ComponentDiscoveryService"
+57-->[com.google.firebase:firebase-analytics-ktx:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/cee1da49392490a517b3ae36c3779b61/transformed/jetified-firebase-analytics-ktx-20.0.0/AndroidManifest.xml:9:13-84
+58            android:directBootAware="true"
+58-->[com.google.firebase:firebase-common:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/ddf75874fb8fdb7126d3f279b4e541fa/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:35:13-43
+59            android:exported="false" >
+59-->[com.google.firebase:firebase-analytics-ktx:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/cee1da49392490a517b3ae36c3779b61/transformed/jetified-firebase-analytics-ktx-20.0.0/AndroidManifest.xml:10:13-37
+60            <meta-data
+60-->[com.google.firebase:firebase-analytics-ktx:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/cee1da49392490a517b3ae36c3779b61/transformed/jetified-firebase-analytics-ktx-20.0.0/AndroidManifest.xml:11:13-13:85
+61                android:name="com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsKtxRegistrar"
+61-->[com.google.firebase:firebase-analytics-ktx:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/cee1da49392490a517b3ae36c3779b61/transformed/jetified-firebase-analytics-ktx-20.0.0/AndroidManifest.xml:12:17-126
+62                android:value="com.google.firebase.components.ComponentRegistrar" />
+62-->[com.google.firebase:firebase-analytics-ktx:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/cee1da49392490a517b3ae36c3779b61/transformed/jetified-firebase-analytics-ktx-20.0.0/AndroidManifest.xml:13:17-82
+63            <meta-data
+63-->[com.google.firebase:firebase-common-ktx:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/893ba6dc734555805e60b1c9b09ff832/transformed/jetified-firebase-common-ktx-20.0.0/AndroidManifest.xml:15:13-17:85
+64                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar"
+64-->[com.google.firebase:firebase-common-ktx:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/893ba6dc734555805e60b1c9b09ff832/transformed/jetified-firebase-common-ktx-20.0.0/AndroidManifest.xml:16:17-113
+65                android:value="com.google.firebase.components.ComponentRegistrar" />
+65-->[com.google.firebase:firebase-common-ktx:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/893ba6dc734555805e60b1c9b09ff832/transformed/jetified-firebase-common-ktx-20.0.0/AndroidManifest.xml:17:17-82
+66            <meta-data
+66-->[com.google.android.gms:play-services-measurement-api:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/e2d056e3f01dcd679fda53e7c5548afe/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:30:13-32:85
+67                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+67-->[com.google.android.gms:play-services-measurement-api:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/e2d056e3f01dcd679fda53e7c5548afe/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:31:17-139
+68                android:value="com.google.firebase.components.ComponentRegistrar" />
+68-->[com.google.android.gms:play-services-measurement-api:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/e2d056e3f01dcd679fda53e7c5548afe/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:32:17-82
+69            <meta-data
+69-->[com.google.firebase:firebase-installations:17.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/9b5fa1ab1eb0f0e840025398ccdb34e7/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:18:13-20:85
+70                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+70-->[com.google.firebase:firebase-installations:17.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/9b5fa1ab1eb0f0e840025398ccdb34e7/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:19:17-127
+71                android:value="com.google.firebase.components.ComponentRegistrar" />
+71-->[com.google.firebase:firebase-installations:17.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/9b5fa1ab1eb0f0e840025398ccdb34e7/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:20:17-82
+72        </service>
+73
+74        <provider
+74-->[com.google.firebase:firebase-common:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/ddf75874fb8fdb7126d3f279b4e541fa/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:26:9-31:39
+75            android:name="com.google.firebase.provider.FirebaseInitProvider"
+75-->[com.google.firebase:firebase-common:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/ddf75874fb8fdb7126d3f279b4e541fa/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:27:13-77
+76            android:authorities="com.example.sanssystechnology.firebaseinitprovider"
+76-->[com.google.firebase:firebase-common:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/ddf75874fb8fdb7126d3f279b4e541fa/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:28:13-72
+77            android:directBootAware="true"
+77-->[com.google.firebase:firebase-common:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/ddf75874fb8fdb7126d3f279b4e541fa/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:29:13-43
+78            android:exported="false"
+78-->[com.google.firebase:firebase-common:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/ddf75874fb8fdb7126d3f279b4e541fa/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:30:13-37
+79            android:initOrder="100" />
+79-->[com.google.firebase:firebase-common:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/ddf75874fb8fdb7126d3f279b4e541fa/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:31:13-36
+80
+81        <activity
+81-->[com.google.android.gms:play-services-base:17.5.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/3e05de34d1589a42ebd1e1b8b4938744/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:23:9-26:75
+82            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+82-->[com.google.android.gms:play-services-base:17.5.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/3e05de34d1589a42ebd1e1b8b4938744/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:24:13-79
+83            android:exported="false"
+83-->[com.google.android.gms:play-services-base:17.5.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/3e05de34d1589a42ebd1e1b8b4938744/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:25:13-37
+84            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+84-->[com.google.android.gms:play-services-base:17.5.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/3e05de34d1589a42ebd1e1b8b4938744/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:26:13-72
+85
+86        <receiver
+86-->[com.google.android.gms:play-services-measurement:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/157cebd22e22f056535f7ed7928a0ddf/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:29:9-33:20
+87            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+87-->[com.google.android.gms:play-services-measurement:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/157cebd22e22f056535f7ed7928a0ddf/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:30:13-85
+88            android:enabled="true"
+88-->[com.google.android.gms:play-services-measurement:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/157cebd22e22f056535f7ed7928a0ddf/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:31:13-35
+89            android:exported="false" >
+89-->[com.google.android.gms:play-services-measurement:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/157cebd22e22f056535f7ed7928a0ddf/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:32:13-37
+90        </receiver>
+91
+92        <service
+92-->[com.google.android.gms:play-services-measurement:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/157cebd22e22f056535f7ed7928a0ddf/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:35:9-38:40
+93            android:name="com.google.android.gms.measurement.AppMeasurementService"
+93-->[com.google.android.gms:play-services-measurement:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/157cebd22e22f056535f7ed7928a0ddf/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:36:13-84
+94            android:enabled="true"
+94-->[com.google.android.gms:play-services-measurement:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/157cebd22e22f056535f7ed7928a0ddf/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:37:13-35
+95            android:exported="false" />
+95-->[com.google.android.gms:play-services-measurement:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/157cebd22e22f056535f7ed7928a0ddf/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:38:13-37
+96        <service
+96-->[com.google.android.gms:play-services-measurement:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/157cebd22e22f056535f7ed7928a0ddf/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:39:9-43:72
+97            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+97-->[com.google.android.gms:play-services-measurement:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/157cebd22e22f056535f7ed7928a0ddf/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:40:13-87
+98            android:enabled="true"
+98-->[com.google.android.gms:play-services-measurement:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/157cebd22e22f056535f7ed7928a0ddf/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:41:13-35
+99            android:exported="false"
+99-->[com.google.android.gms:play-services-measurement:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/157cebd22e22f056535f7ed7928a0ddf/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:42:13-37
+100            android:permission="android.permission.BIND_JOB_SERVICE" />
+100-->[com.google.android.gms:play-services-measurement:20.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/157cebd22e22f056535f7ed7928a0ddf/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:43:13-69
+101
+102        <meta-data
+102-->[com.google.android.gms:play-services-basement:17.5.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/6a8240edafc5611026bfcc1a45c99584/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:23:9-25:69
+103            android:name="com.google.android.gms.version"
+103-->[com.google.android.gms:play-services-basement:17.5.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/6a8240edafc5611026bfcc1a45c99584/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:24:13-58
+104            android:value="@integer/google_play_services_version" />
+104-->[com.google.android.gms:play-services-basement:17.5.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/6a8240edafc5611026bfcc1a45c99584/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:25:13-66
+105
+106        <provider
+106-->[androidx.emoji2:emoji2:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/1c4302db56eb14a54d45cfddd1ec81b4/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+107            android:name="androidx.startup.InitializationProvider"
+107-->[androidx.emoji2:emoji2:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/1c4302db56eb14a54d45cfddd1ec81b4/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+108            android:authorities="com.example.sanssystechnology.androidx-startup"
+108-->[androidx.emoji2:emoji2:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/1c4302db56eb14a54d45cfddd1ec81b4/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+109            android:exported="false" >
+109-->[androidx.emoji2:emoji2:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/1c4302db56eb14a54d45cfddd1ec81b4/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+110            <meta-data
+110-->[androidx.emoji2:emoji2:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/1c4302db56eb14a54d45cfddd1ec81b4/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+111                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+111-->[androidx.emoji2:emoji2:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/1c4302db56eb14a54d45cfddd1ec81b4/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+112                android:value="androidx.startup" />
+112-->[androidx.emoji2:emoji2:1.0.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/1c4302db56eb14a54d45cfddd1ec81b4/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+113            <meta-data
+113-->[androidx.profileinstaller:profileinstaller:1.0.4] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/301823d19e0b5deaf6ae4cc0d7429eff/transformed/jetified-profileinstaller-1.0.4/AndroidManifest.xml:31:13-33:52
+114                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+114-->[androidx.profileinstaller:profileinstaller:1.0.4] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/301823d19e0b5deaf6ae4cc0d7429eff/transformed/jetified-profileinstaller-1.0.4/AndroidManifest.xml:32:17-85
+115                android:value="androidx.startup" />
+115-->[androidx.profileinstaller:profileinstaller:1.0.4] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/301823d19e0b5deaf6ae4cc0d7429eff/transformed/jetified-profileinstaller-1.0.4/AndroidManifest.xml:33:17-49
+116            <meta-data
+116-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/c71d235f0f1242e1a5ac14c3713b89b8/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+117                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+117-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/c71d235f0f1242e1a5ac14c3713b89b8/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+118                android:value="androidx.startup" />
+118-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/c71d235f0f1242e1a5ac14c3713b89b8/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+119        </provider>
+120
+121        <receiver
+121-->[androidx.profileinstaller:profileinstaller:1.0.4] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/301823d19e0b5deaf6ae4cc0d7429eff/transformed/jetified-profileinstaller-1.0.4/AndroidManifest.xml:36:9-45:20
+122            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+122-->[androidx.profileinstaller:profileinstaller:1.0.4] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/301823d19e0b5deaf6ae4cc0d7429eff/transformed/jetified-profileinstaller-1.0.4/AndroidManifest.xml:37:13-76
+123            android:directBootAware="false"
+123-->[androidx.profileinstaller:profileinstaller:1.0.4] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/301823d19e0b5deaf6ae4cc0d7429eff/transformed/jetified-profileinstaller-1.0.4/AndroidManifest.xml:38:13-44
+124            android:enabled="true"
+124-->[androidx.profileinstaller:profileinstaller:1.0.4] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/301823d19e0b5deaf6ae4cc0d7429eff/transformed/jetified-profileinstaller-1.0.4/AndroidManifest.xml:39:13-35
+125            android:exported="true"
+125-->[androidx.profileinstaller:profileinstaller:1.0.4] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/301823d19e0b5deaf6ae4cc0d7429eff/transformed/jetified-profileinstaller-1.0.4/AndroidManifest.xml:40:13-36
+126            android:permission="android.permission.DUMP" >
+126-->[androidx.profileinstaller:profileinstaller:1.0.4] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/301823d19e0b5deaf6ae4cc0d7429eff/transformed/jetified-profileinstaller-1.0.4/AndroidManifest.xml:41:13-57
+127            <intent-filter>
+127-->[androidx.profileinstaller:profileinstaller:1.0.4] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/301823d19e0b5deaf6ae4cc0d7429eff/transformed/jetified-profileinstaller-1.0.4/AndroidManifest.xml:42:13-44:29
+128                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+128-->[androidx.profileinstaller:profileinstaller:1.0.4] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/301823d19e0b5deaf6ae4cc0d7429eff/transformed/jetified-profileinstaller-1.0.4/AndroidManifest.xml:43:17-91
+128-->[androidx.profileinstaller:profileinstaller:1.0.4] /home/rohal/Documents/android-studio/android-studio/jre/caches/transforms-3/301823d19e0b5deaf6ae4cc0d7429eff/transformed/jetified-profileinstaller-1.0.4/AndroidManifest.xml:43:25-88
+129            </intent-filter>
+130        </receiver>
+131    </application>
+132
+133</manifest>
